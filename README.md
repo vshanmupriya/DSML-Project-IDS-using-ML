@@ -3,8 +3,8 @@ This project focuses on the development of an Intrusion Detection System (IDS) u
 
 📌 **Table of Contents**
 
-          •	[Project Overview ] (https://drive.google.com/file/d/1hIPYT1SPXKs3W8HuluEWBkoaaPkDKViX/view?usp=sharing)
-
+          •	Project Overview
+          
           •	About the Dataset (UGRansome)
 
           •	Data Preprocessing
