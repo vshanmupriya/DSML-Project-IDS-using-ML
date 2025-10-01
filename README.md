@@ -3,14 +3,24 @@ This project focuses on the development of an Intrusion Detection System (IDS) u
 
 📌 **Table of Contents**
 
-•	Project Overview
-•	About the Dataset (UGRansome)
-•	Data Preprocessing
-•	Feature Engineering
-•	Model Building & Training
-•	Evaluation & Metrics
-•	Usage Instructions
-•	Project Structure
-•	Results & Interpretation
-•	Future Work
-•	License
+          •	Project Overview
+
+          •	About the Dataset (UGRansome)
+
+          •	Data Preprocessing
+
+          •	Feature Engineering
+
+          •	Model Building & Training
+
+          •	Evaluation & Metrics
+
+          •	Usage Instructions
+        
+          •	Project Structure
+
+          •	Results & Interpretation
+
+          •	Future Work
+
+          •	License
