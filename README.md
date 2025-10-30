@@ -1,4 +1,4 @@
-<img width="566" height="118" alt="image" src="https://github.com/user-attachments/assets/58153425-0235-4ac2-a11f-6ef696787d5a" /># DSML-Project-Intrusion Detection System (IDS) using Machine Learning
+# DSML-Project-Intrusion Detection System (IDS) using Machine Learning
 
 This project focuses on the development of an Intrusion Detection System (IDS) using Machine Learning techniques to identify and classify network traffic as normal or malicious, enhancing network security against evolving cyber threats.
 
@@ -72,7 +72,7 @@ ROC-AUC	0.96
 Results vary based on dataset and preprocessing methods.
 
 ## Future Enhancements
-	•         Feature selection to reduce dimensionality
+	•   Feature selection to reduce dimensionality
 	• 	Explore XGBoost / LightGBM for higher accuracy
 	• 	Real-time threat prediction on live traffic
 	• 	Handle class imbalance in new data
