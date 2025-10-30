@@ -10,6 +10,7 @@ This project focuses on the development of an Intrusion Detection System (IDS) u
 	•	Algorithms Used
 	•	Installation
 	•	Usage
+	•	Results
 	•	Conclusion
 	•	Future Work
 	•	License   		
