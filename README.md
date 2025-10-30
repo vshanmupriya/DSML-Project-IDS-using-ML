@@ -60,13 +60,13 @@ Intrusion Detection System is a software application that detects network intrus
 		•	Evaluation and visualization
 
 ## Conclusion
-The project successfully demonstrates how machine learning can detect cyber threats in network traffic data with high accuracy. Random Forest achieved **~99.3% test accuracy** and robust classification across Safe, Alert, and Suspicious classes.
+The project successfully demonstrates how machine learning can effectively detect cyber threats in network traffic data with high accuracy. The **Random Forest** model achieved approximately 99.3% test accuracy and provided robust classification across Safe, Alert, and Suspicious traffic classes.
 
 ## Future Enhancements
-	•   Feature selection to reduce dimensionality
-	• 	Explore XGBoost / LightGBM for higher accuracy
-	• 	Real-time threat prediction on live traffic
-	• 	Handle class imbalance in new data
+	•   Implement **advanced feature selection** techniques to reduce dimensionality.
+	• 	Explore **XGBoost** and **LightGBM**models for potentially higher accuracy and faster training.
+	• 	Develop **real-time threat prediction** capabilities for live network traffic.
+	• 	Address **class imbalance** issues in new or evolving datasets.
 
 ## License
 This project is licensed under the MIT License. See the [MIT License](https://opensource.org/license/mit/) file for details.
