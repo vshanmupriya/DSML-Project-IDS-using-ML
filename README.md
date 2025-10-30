@@ -4,26 +4,26 @@
 This project focuses on the development of an Intrusion Detection System (IDS) using Machine Learning techniques to identify and classify network traffic as normal or malicious, enhancing network security against evolving cyber threats.
 
 ## Table of Contents
-   		•	Project Overview
-		•	Features
-		•	Datasets
-		•	Algorithms Used
-		•	Installation
-		•	Usage
-		•	Conclusion
-		•	Future Work
-		•	License
+•	Project Overview
+•	Features
+•	Datasets
+•	Algorithms Used
+•	Installation
+•	Usage
+•	Conclusion
+•	Future Work
+•	License   		
 		        
 ## Project Overview
 Intrusion Detection System is a software application that detects network intrusion using various machine learning algorithms. IDS monitors a network or system for malicious activity and protects a computer network from unauthorized access by users, including perhaps insiders. The intrusion detector learning task is to build a predictive model (i.e., a classifier) capable of distinguishing between 'bad connections' (intrusion/attacks) and 'good (normal) connections'.
           
 ## Features
-		•	Preprocessing of real-world IDS datasets
-		•	Feature selection and dimensionality reduction
-		•	Supervised ML model training and evaluation
-		•	Classification of normal vs. attack traffic
-		•	Performance metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC
-		•	Visualization of results          
+•	Preprocessing of real-world IDS datasets
+•	Feature selection and dimensionality reduction
+•	Supervised ML model training and evaluation
+•	Classification of normal vs. attack traffic
+•	Performance metrics: Accuracy, Precision, Recall, F1-Score, ROC-AUC
+•	Visualization of results          
           
 ## Dataset    
    Download the data set form Kaggle - [**UGRansome dataset**](https://www.kaggle.com/datasets/nkongolo/ugransome-dataset)
@@ -43,7 +43,7 @@ Intrusion Detection System is a software application that detects network intrus
 - **Editor Used:** Google Colab/ Jupyter notebook
 - **Python Version:** 3.12  
 - **Platform:** Google Colab  
-- **Environment:** Machine Learning/ Classification Model
+- **Environment:** Machine Learning - Classification Model
 
 #### Python Packages Used
 - **Data Manipulation:** `pandas`, `numpy`  
@@ -69,7 +69,7 @@ The project successfully demonstrates how machine learning can detect cyber thre
 	• 	Handle class imbalance in new data
 
 ## License
-       This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [MIT License](https://opensource.org/license/mit/) file for details.
 
 
 
