@@ -1,6 +1,7 @@
 # DSML-Project-Intrusion Detection System (IDS) using Machine Learning
 
 ## Project Objective
+---
 This project focuses on the development of an Intrusion Detection System (IDS) using Machine Learning techniques to identify and classify network traffic as normal or malicious, enhancing network security against evolving cyber threats.
 
 ## Table of Contents
@@ -72,8 +73,16 @@ Intrusion Detection System is a software application that detects network intrus
 | KNN                  | 0.980    | Good performance but slightly lower than tree-based models; sensitive to high-dimensional data. |
 | SVM                  | 0.920    | Decent overall, but slower and lower accuracy on class 0. Not ideal for this large dataset. |
 - Results vary based on dataset and preprocessing methods.
+
 ## Conclusion
-The project successfully demonstrates how machine learning can effectively detect cyber threats in network traffic data with high accuracy. The **Random Forest** model achieved approximately 99.3% test accuracy and provided robust classification across Safe, Alert, and Suspicious traffic classes.
+The project successfully demonstrates how machine learning can effectively detect cyber threats in network traffic data with high accuracy. The **Random Forest** model achieved approximately **99.3% test accuracy** and provided robust classification across Safe, Alert, and Suspicious traffic classes.
+
+**Classification Report:**
+| Class | Precision | Recall | F1-score |   
+|-----------------------|-----------|--------|----------|
+| Class 0 (Safe)        |   0.99    |  0.99  |   0.99   | 
+| Class 1 (Alert)       |   0.99    |  0.99  |   0.99   | 
+| Class 2 (Suspicious)  |   0.99    |  1.00  |   0.99   |             
 
 ## Future Enhancements
 - Implement **advanced feature selection** techniques to reduce dimensionality.  
