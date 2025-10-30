@@ -63,8 +63,6 @@ Intrusion Detection System is a software application that detects network intrus
 		•	Model training
 		•	Evaluation and visualization
 
----
-
 ## Results
 
 | Model                | Accuracy | Key Observations |
@@ -91,7 +89,6 @@ The project successfully demonstrates how machine learning can effectively detec
 - Explore **XGBoost** and **LightGBM** models for potentially higher accuracy and faster training.  
 - Develop **real-time threat prediction** capabilities for live network traffic.  
 - Address **class imbalance** issues in new or evolving datasets.
-
 
 ## License
 This project is licensed under the MIT License. See the [MIT License](https://opensource.org/license/mit/) file for details.
