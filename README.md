@@ -1,7 +1,6 @@
 # DSML-Project-Intrusion Detection System (IDS) using Machine Learning
 
 ## Project Objective
----
 This project focuses on the development of an Intrusion Detection System (IDS) using Machine Learning techniques to identify and classify network traffic as normal or malicious, enhancing network security against evolving cyber threats.
 
 ## Table of Contents
@@ -15,7 +14,7 @@ This project focuses on the development of an Intrusion Detection System (IDS) u
 	•	Conclusion
 	•	Future Work
 	•	License   		
-		        
+				
 ## Project Overview
 Intrusion Detection System is a software application that detects network intrusion using various machine learning algorithms. IDS monitors a network or system for malicious activity and protects a computer network from unauthorized access by users, including perhaps insiders. The intrusion detector learning task is to build a predictive model (i.e., a classifier) capable of distinguishing between 'bad connections' (intrusion/attacks) and 'good (normal) connections'.
           
@@ -29,6 +28,9 @@ Intrusion Detection System is a software application that detects network intrus
           
 ## Dataset    
    Download the data set form Kaggle - [**UGRansome dataset**](https://www.kaggle.com/datasets/nkongolo/ugransome-dataset)
+**Steps:**
+1. Place the dataset in the `data/` folder.  
+2. Ensure the notebook paths point to the dataset correctly.
           
 ## Algorithms Used
 	•	Logistic Regression
