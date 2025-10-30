@@ -27,7 +27,8 @@ This project focuses on the development of an Intrusion Detection System (IDS) u
           •	Visualization of results
           
 ## Dataset    
-          Download the dataset from Kaggle: [**UGRansome dataset**] (https://www.kaggle.com/datasets/nkongolo/ugransome-dataset)
+          Download the dataset from Kaggle: 
+[**UGRansome dataset**](https://www.kaggle.com/datasets/nkongolo/ugransome-dataset)
           
 ## Algorithms Used
           •	Logistic Regression
