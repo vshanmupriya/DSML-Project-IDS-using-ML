@@ -60,6 +60,18 @@ Intrusion Detection System is a software application that detects network intrus
 		•	Model training
 		•	Evaluation and visualization
 
+---
+
+## Results
+
+| Model                | Accuracy | Key Observations |
+|----------------------|----------|-----------------|
+| Logistic Regression  | 0.744    | Struggles with class 0 (Safe) and class 2 (Suspicious), moderate performance overall. |
+| Decision Tree        | 0.994    | Excellent accuracy; almost perfect classification across all classes. |
+| **Random Forest**        | **0.993**    | **Similar to Decision Tree; slightly better balanced for class 2. Robust and reliable.** |
+| KNN                  | 0.980    | Good performance but slightly lower than tree-based models; sensitive to high-dimensional data. |
+| SVM                  | 0.920    | Decent overall, but slower and lower accuracy on class 0. Not ideal for this large dataset. |
+
 ## Conclusion
 The project successfully demonstrates how machine learning can effectively detect cyber threats in network traffic data with high accuracy. The **Random Forest** model achieved approximately 99.3% test accuracy and provided robust classification across Safe, Alert, and Suspicious traffic classes.
 
