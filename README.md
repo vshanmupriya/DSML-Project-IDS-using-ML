@@ -6,7 +6,7 @@ This project focuses on the development of an Intrusion Detection System (IDS) u
 ## Table of Contents
 	•	Project Overview
 	•	Features
-	•	Datasets
+	•	Dataset
 	•	Algorithms Used
 	•	Installation
 	•	Usage
@@ -70,9 +70,3 @@ The project successfully demonstrates how machine learning can detect cyber thre
 
 ## License
 This project is licensed under the MIT License. See the [MIT License](https://opensource.org/license/mit/) file for details.
-
-
-
-	
-
-
